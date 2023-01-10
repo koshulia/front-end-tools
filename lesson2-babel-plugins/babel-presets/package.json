@@ -12,7 +12,6 @@
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
-    "@babel/plugin-transform-template-literals": "^7.18.9",
     "@babel/preset-env": "^7.20.2"
   }
 }
